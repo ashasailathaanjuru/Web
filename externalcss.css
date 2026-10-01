@@ -1,0 +1,64 @@
+h1{
+            color: blue;
+            text-align: center;
+        }
+        h2{
+            color: rgb(238, 36, 231);
+            text-decoration: underline;
+        }
+        p{
+            color: green;
+            font-size: 20px;
+            line-height: 1.5;
+        }
+        button{
+            background-color: black;
+            color: white;
+            padding: 10px;
+        }
+        img{
+            width: "1000px";
+            height: 500px;
+            border: 5px solid black;
+            border-radius: 10px;
+        }
+        table{
+            border-collapse: collapse;
+            width: 40%;
+        }
+        th{
+            background-color: darkblue;
+            color: white;
+            padding: 10px;
+        }
+        td{
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        mark{
+            background-color: rgb(227, 105, 105);
+        }
+        a{
+            color: red;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        ul{
+            color: rgb(13, 71, 177);
+            font-size: 18px;
+        }
+        li{
+            margin: 8px;
+        }
+        button{
+            background-color: black;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        hr{
+            border: 2px solid blue;
+        }
